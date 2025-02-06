@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Marvel Rivals"
-categories: [Marvel Rivals]
-tags: [marvel rivals]
+categories: [Game]
+tags: [Marvel Rivals]
 ---
 
 ## 初めに

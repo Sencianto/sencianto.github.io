@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "内省"
-categories: [内省]
+categories: [Lifestyle]
 tags: [内省]
 ---
 
@@ -55,6 +55,7 @@ tags: [内省]
   * 開示請求の対象
   * 対面で同等の発言をした場合
 * eco-protesterによる車両制限
+* 行き過ぎた行為に対する私的な罰はどの程度が許されるのか
 
 # 宗教
 
