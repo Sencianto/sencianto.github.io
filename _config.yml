@@ -39,6 +39,8 @@ social:
   name: Sencianto # your_full_name
   email: info@sencianto.com # change to your email address
   links:
+    - https://www.sencianto.com/about/
+    - https://bsky.app/profile/sencianto.com
     # The first element serves as the copyright owner's link
     # https://twitter.com/username # change to your Twitter homepage
     # https://github.com/username # change to your GitHub homepage
