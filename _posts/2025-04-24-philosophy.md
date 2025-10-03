@@ -3,8 +3,6 @@ layout: post
 title:  "哲学"
 categories: [哲学]
 tags: [哲学]
-author: Sencianto
-author_url: https://www.sencianto.com/about/
 ---
 
 
