@@ -40,10 +40,10 @@ social:
   email: info@sencianto.com # change to your email address
   links:
     - https://www.sencianto.com/about/
-    - https://bsky.app/profile/sencianto.com
+    # - https://bsky.app/profile/sencianto.com
     # The first element serves as the copyright owner's link
-    # https://twitter.com/username # change to your Twitter homepage
-    # https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/sencianto# change to your Twitter homepage
+    - https://github.com/Sencianto # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
